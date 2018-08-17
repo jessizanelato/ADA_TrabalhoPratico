@@ -1,0 +1,5 @@
+D:\Pessoal\Alberlan\Pós Graduação\05 - Análise e Desenho da Arquitetura de Software - ADA182A\Trabalho\Trabalho_ADA\Trabalho_ADA\bin\Debug\Trabalho_ADA.exe
+D:\Pessoal\Alberlan\Pós Graduação\05 - Análise e Desenho da Arquitetura de Software - ADA182A\Trabalho\Trabalho_ADA\Trabalho_ADA\bin\Debug\Trabalho_ADA.pdb
+D:\Pessoal\Alberlan\Pós Graduação\05 - Análise e Desenho da Arquitetura de Software - ADA182A\Trabalho\Trabalho_ADA\Trabalho_ADA\obj\Debug\Trabalho_ADA.csprojResolveAssemblyReference.cache
+D:\Pessoal\Alberlan\Pós Graduação\05 - Análise e Desenho da Arquitetura de Software - ADA182A\Trabalho\Trabalho_ADA\Trabalho_ADA\obj\Debug\Trabalho_ADA.exe
+D:\Pessoal\Alberlan\Pós Graduação\05 - Análise e Desenho da Arquitetura de Software - ADA182A\Trabalho\Trabalho_ADA\Trabalho_ADA\obj\Debug\Trabalho_ADA.pdb

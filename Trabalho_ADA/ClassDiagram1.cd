@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Trabalho_ADA.Facade.CarregamentoClass">
+    <Position X="7.5" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAACAAA=</HashCode>
+      <FileName>Facade\CarregamentoClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trabalho_ADA.Facade.SistemaFilasAtendimento">
+    <Position X="9.75" Y="5.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABEAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Facade\SistemaFilasAtendimento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trabalho_ADA.Facade.SistemaGravacao">
+    <Position X="7.25" Y="5.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>QAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Facade\SistemaGravacao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trabalho_ADA.Facade.SistemaTemporizador">
+    <Position X="4.75" Y="5.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Facade\SistemaTemporizador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trabalho_ADA.FactoryMethod.Contato.ContatoEmail">
+    <Position X="0.75" Y="2.25" Width="1.5" />
+    <InheritanceLine Type="Trabalho_ADA.FactoryMethod.Contato.ContatoIntF" FixedToPoint="true">
+      <Path>
+        <Point X="3.75" Y="1.603" />
+        <Point X="3.75" Y="1.853" />
+        <Point X="1.5" Y="1.853" />
+        <Point X="1.5" Y="2.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactoryMethod\Contato\ContatoEmail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trabalho_ADA.FactoryMethod.Contato.ContatoIntF">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactoryMethod\Contato\ContatoIntF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trabalho_ADA.FactoryMethod.Contato.ContatoSMS">
+    <Position X="3" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactoryMethod\Contato\ContatoSMS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trabalho_ADA.FactoryMethod.Contato.ContatoTelefone">
+    <Position X="5.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactoryMethod\Contato\ContatoTelefone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trabalho_ADA.FactoryMethod.ContatoFactory">
+    <Position X="0.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactoryMethod\ContatoFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trabalho_ADA.FactoryMethod.GerarContato">
+    <Position X="0.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactoryMethod\GerarContato.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trabalho_ADA.Program">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trabalho_ADA.Singleton.EmpresaClass">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Singleton\EmpresaClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trabalho_ADA.Singleton.ParametroClass">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Singleton\ParametroClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
